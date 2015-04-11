@@ -6,6 +6,11 @@
   "main": "index.js",
   "license": "MIT",
   "keywords": ["aubrey"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/EvanHahn/aubrey-object-store.git"
+  },
+  "bugs": "https://github.com/EvanHahn/aubrey-object-store/issues",
   "scripts": {
     "test": "mocha"
   },
