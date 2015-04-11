@@ -5,7 +5,9 @@
   "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
-  "keywords": ["aubrey"],
+  "keywords": [
+    "aubrey"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/EvanHahn/aubrey-object-store.git"
