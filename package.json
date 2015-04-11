@@ -5,6 +5,7 @@
   "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
+  "keywords": ["aubrey"],
   "scripts": {
     "test": "mocha"
   },
