@@ -2,7 +2,7 @@
   "name": "aubrey-object-store",
   "description": "use an object as an Aubrey store",
   "author": "Evan Hahn <me@evanhahn.com> (http://evanhahn.com)",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "keywords": [
