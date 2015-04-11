@@ -22,4 +22,8 @@ AubreyObjectStore.prototype.remove = function remove(keys, callback) {
   callback(null);
 };
 
+AubreyObjectStore.prototype.clear = function clear(callback) {
+  this.remove(Object.keys(this._data), callback);
+};
+
 module.exports = AubreyObjectStore;

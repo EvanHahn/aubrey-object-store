@@ -99,4 +99,14 @@ describe('basic operations', function () {
       });
     });
   });
+
+  it('can clear everything', function (done) {
+    var data = { foo: 123, bar: 456 };
+    var store = new Store(data);
+    store.clear(function (err) {
+      assert.equal(err, null);
+      assert.equal(Object.keys(data).length, 0);
+      done();
+    });
+  });
 });
