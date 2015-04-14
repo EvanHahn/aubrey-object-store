@@ -1,4 +1,4 @@
-In-memory object store for Aubrey
+In-memory object store for [Aubrey](https://github.com/EvanHahn/Aubrey)
 =================================
 
 *started from an object now we here*
